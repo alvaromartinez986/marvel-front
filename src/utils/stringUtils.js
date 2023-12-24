@@ -1,0 +1,1 @@
+export const createImgPath = (thumbnail) => `${thumbnail?.path}.${thumbnail?.extension}` 
